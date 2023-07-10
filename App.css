@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: url('./images/bankbackground.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+table {
+  text-align: left;
+}
+
+h1 {
+  text-align: left;
+}
+
+#createStatus {
+  margin: 2rem;
+}
+
+.bg-yellow {
+  background-color: #FFA500;
+}
+
+.rounded-bottom {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+
+.navbar {
+  margin: 0 auto;
+  max-width: 450px;
+}
+
+.navbar-brand {
+  margin: 2px;
+}
+
+.active {
+  background-color: black !important;
+  color: white !important;
+}
+
+.black-bg {
+  background-color: black;
+  color: white;
+}
+
+.centerContent {
+  padding: 100px;
+  flex-flow: column;
+  width: fit-content !important;
+}
+
+.error {
+  color: red;
+}
+
+.custom-tooltip {
+  background-color: rgba(128, 128, 128, 0.6) !important;
+  color: white !important;
+  border-radius: 8px;
+  padding: 8px;
+  position: relative;
+  top: 30px;
+  transform: translateY(100%);
+}
+
+.custom-tooltip .tooltip-inner {
+  background-color: transparent;
+  color: white;
+}
+
