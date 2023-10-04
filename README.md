@@ -8,10 +8,10 @@ Bank Bank is a fictional bank's front-end demonstration application. Built as an
 
 ## Features
 
-Account creation
-Money deposit
-Money Withdrawal
-View account information with currnet balance
+Account creation  
+Money deposit  
+Money Withdrawal  
+View account information with currnet balance  
 
 ## How to view the project (online)
 
@@ -19,27 +19,27 @@ Online via amazon S3 bucket : https://mark-spas-bankingapplication.s3.eu-north-1
 
 ## How to install 
 
-Download the repo from github to your local machine : (https://github.com/MarkSpasMIT/BadBankSpasFront)
+Download the repo from github to your local machine : (https://github.com/MarkSpasMIT/BadBankSpasFront)  
 
 Navigate into the project directory and do npm install, npm start. 
 
 ## Technology used
 
-React
-Bootstrap
+React  
+Bootstrap  
 
 ## Features
 
-Account creation
-Money deposit
-Money withdrawal
-View account information with current balance
+Account creation  
+Money deposit  
+Money withdrawal  
+View account information with current balance  
 
 ## Future Features
 
-Secure login and authentication
-Fund transfer between accounts
-Mobile app integration
+Secure login and authentication  
+Fund transfer between accounts  
+Mobile app integration  
 
 ## License
 
